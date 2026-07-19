@@ -23,7 +23,7 @@ sudo emerge --ask dev-libs/libsodium sys-apps/curl app-arch/tar sys-apps/grep
 ## Setup & Compilation
 1. Clone the Repository
 ```
-git clone <your-repository-url>
+git clone https://github.com/Ex0nl/EP2EP.git
 cd EP2EP
 ```
 2. Compile the Program
