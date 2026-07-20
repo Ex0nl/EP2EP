@@ -1,6 +1,5 @@
 # EP2EP
-A Linux, lightweight, End-to-End Encrypted (E2EE) Peer-to-Peer chat application that uses libsodium for secure communication and Bore for TCP tunneling across NATs. 
-Run the binaries under releases (cross-compatible on every Linux Distro) or compile for yourself:
+A POSIX compliant, lightweight, End-to-End Encrypted (E2EE) Peer-to-Peer chat application that uses libsodium for secure communication and bore for TCP tunneling across NATs.
 
 ## Prerequisites for Compilation
 (Dependencies to compile and run this project)
