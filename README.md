@@ -1,5 +1,5 @@
 # EP2EP
-A POSIX compliant, lightweight, End-to-End Encrypted (E2EE) Peer-to-Peer chat application that uses libsodium for secure communication and bore for TCP tunneling across NATs.
+A lightweight, End-to-End Encrypted (E2EE) Peer-to-Peer chat application that uses libsodium for secure communication and bore for TCP tunneling across NATs.
 
 ## Prerequisites for Compilation
 (Dependencies to compile and run this project)
